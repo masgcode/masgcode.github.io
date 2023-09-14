@@ -1,4 +1,4 @@
-# Portafolio Profesional Michael Sa las
+# Portafolio Profesional Michael Salas
 ## Descripción
 Este repositorio contiene mi portafolio profesional donde presento mis habilidades, experiencia y proyectos. El portafolio está construido principalmente con HTML, CSS, JavaScript
 
